@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/wlr/Documents/GitHub/Will-Reed.github.io",
+	"sourceRoot": "/home/wlr/Documents/GitHub/Will-Reed-Web",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",

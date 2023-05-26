@@ -7,9 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://willreed.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bio Sketch</title>
+      <link>http://willreed.org/about/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://willreed.org/about/</guid>
+      <description>William Reed is Chair of the Department of Government and Politics at the University of Maryland, College Park, with a Ph.D. in Political Science specializing in International Politics. He is a renowned researcher in bargaining and negotiation, publishing in top-ranked political science journals and receiving funding from prestigious organizations. With over 22 years of experience in higher education, he has held leadership positions and taught internationally.
+As Chair, he oversees multiple research centers and has secured significant external funding.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>http://willreed.org/research/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://willreed.org/research/</guid>
+      <description>Reed, William. &#34;Alliance Duration and Democracy: An Extension and Cross-Validation of&#34; Democratic States and Commitment in International Relations&#34;.&#34; American Journal of Political Science (1997): 1072-1078. Reed, William. &#34;A unified statistical model of conflict onset and escalation.&#34; American Journal of Political Science (2000): 84-93. Lemke, Douglas, and William Reed. &#34;War and rivalry among great powers.&#34; American Journal of Political Science (2001): 457-469. Reed, William. &#34;Information, power, and war.&#34; American Political Science Review 97.</description>
+    </item>
     
   </channel>
 </rss>
