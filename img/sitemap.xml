@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://willreed.org/about/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://willreed.org/research/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://willreed.org/</loc>
+    <lastmod>2023-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://willreed.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://willreed.org/series/</loc>
+  </url>
+  
+  <url>
+    <loc>http://willreed.org/tags/</loc>
+  </url>
+  
+</urlset>
