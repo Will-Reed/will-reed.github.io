@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://willreed.org/about/</loc>
+    <lastmod>2023-07-06T12:57:43-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://willreed.org/about/bio/</loc>
+    <lastmod>2023-07-06T12:57:43-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://willreed.org/</loc>
+    <lastmod>2023-07-06T12:57:43-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://willreed.org/categories/</loc>
   </url>
   
@@ -12,10 +27,6 @@
   
   <url>
     <loc>https://willreed.org/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://willreed.org/</loc>
   </url>
   
 </urlset>
